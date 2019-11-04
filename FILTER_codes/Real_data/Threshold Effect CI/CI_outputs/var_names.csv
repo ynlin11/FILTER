@@ -1,0 +1,44 @@
+No,Name,Abr
+1,Age,Age
+2,Sex,Sex
+3,BMI,BMI
+4,DBP,DBP
+5,总胆固醇(TCH、Chol、TC),"TCH, Chol, TC"
+6,甘油三酯(TG),TG
+7,SBP,SBP
+8,红细胞压积,PCV
+9,平均红细胞体积,MCV
+10,红细胞体积分布宽度SD(RDW-SD),RDW(SD)
+11,红细胞体积分布宽度CV(RDW-CV),RDW(CV)
+12,血红蛋白(HGB),HGB
+13,平均红细胞血红蛋白含量(MCH),MCH
+14,平均红细胞血红蛋白浓度(MCHC),MCHC
+15,红细胞计数(RBC),RBC
+16,白细胞计数(WBC),WBC
+17,中性细胞比率(NEUT%),NEUT%
+18,淋巴细胞比率(LYMPH%),LYMPH%
+19,单核细胞比率(MONO%),MONO%
+20,嗜酸性粒细胞比率(EO%),EO%
+21,嗜碱性粒细胞比率(BASO%),BASO%
+22,中性细胞绝对值(NEUT#),NEUT#
+23,单核细胞绝对值(MONO#),MONO#
+24,嗜酸性粒细胞绝对值(EO#),EO#
+25,嗜碱性粒细胞绝对值(BASO#),BASO#
+26,血小板直接计数(PLT),PLT
+27,血小板分布宽度(PDW),PDW
+28,平均血小板体积(MPV),MPV
+29,大血小板比率(P-LCR),P-LCR
+30,血小板压积(PCT),PCT
+31,(三分法)淋巴细胞数(Lymph#_3),Lymph#_3
+32,PH,PH
+33,尿比重(SG),SG
+34,低密度脂蛋白胆固醇(LDL-C),LDL-C
+35,高密度脂蛋白胆固醇(HDL-C),HDL-C
+36,丙氨酸氨基转移酶(ALT)[谷丙转氨酶(GPT)],ALT[GPT]
+37,天门冬氨酸氨基转移酶(AST)[谷草转氨酶(GOT)],AST[GOT]
+38,AST/ALT,AST/ALT
+39,尿素氮(BUN、UREAN),"BUN, UREAN"
+40,血肌酐(Cr、CRE),"Cr, CRE"
+41,血尿酸(UA),UA
+42,甲胎蛋白(AFP),AFP
+43,癌胚抗原(CEA),CEA
